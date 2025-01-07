@@ -148,12 +148,13 @@ main section {
     align-items: center;
     text-align: center;
     margin-top: 130px;
+    width: 827px;
 }
 
 .about-items {
     display: flex;
-    justify-content: space-around;
-    width: 782px;
+    justify-content: space-between;
+    
 }
 
 
@@ -170,11 +171,12 @@ main section {
     line-height: 30px;
 }
 
+
 /* skills styles */
 
 
 
-.section-description {
+.skills .section-description {
     line-height: 30px;
     font-size: 18px;
     margin-bottom: 50px;
