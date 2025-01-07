@@ -23,6 +23,7 @@
     font-size: 35px;
     font-weight: 700;
     color: #181818;
+    margin-bottom: 30px;
 }
 .section-description {
     font-size: 18px;
@@ -171,15 +172,19 @@ main section {
 
 /* skills styles */
 
+
+
 .section-description {
     line-height: 30px;
     font-size: 18px;
     margin-bottom: 50px;
+    width: 909px;
+    margin: 30px auto 50px auto;
 }
 
 .skills-container{
     display: flex;
-    /* justify-content: space-around; */
+    justify-content: space-around;
     gap: 24px;
 }
 
