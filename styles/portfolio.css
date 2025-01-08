@@ -207,3 +207,48 @@ main section {
     font-weight: 400;
     line-height: 28px;
 }
+
+/* resume section styles */
+
+.resume hr {
+    margin: 30px 5px;
+}
+
+.resume-container {
+    display: flex;
+    gap: 24px;
+}
+
+.section-title {
+    font-size: 35px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.resume-column-title {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.experience-title {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.experience-sub-title {
+    font-size: 20px;
+    font-weight: semibold;
+    margin-bottom: 20px;
+}
+
+.experience-description {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #757575;
+}
+
+.resume-download-cv {
+    margin: 50px;
+}
+
